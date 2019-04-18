@@ -9,9 +9,14 @@ h1 {
     color: #24A6CC;
 }
 header {
-    background: #1A5276;
+    background-image:url(../img/fondo.png);
+    background: #F0F0F0;
     color: #D5D8DC;
 }   
+
+#head {
+   width: 100%;
+}
 
 .carousel-inner img {
     width: 100%;
@@ -21,10 +26,6 @@ header {
 .carousel-inner{
  height: 400px;
  margin-bottom: 30px;
-}
-
-header {
-    background-image:url(../img/fondo.png);
 }
 
 img {
